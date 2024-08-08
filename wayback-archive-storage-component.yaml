@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: wayback-archive-storage
-  description: Storage subsystem of the Wayback Archive
+  description: Ding-dong
   links:
     - url: https://github.com/shukibakbuki/dingdong
       title: Github Repo
