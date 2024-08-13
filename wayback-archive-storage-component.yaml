@@ -1,6 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  tags:
+    - rock
+    - roll
   name: wayback-archive-storage
   description: ding-dong
   links:
