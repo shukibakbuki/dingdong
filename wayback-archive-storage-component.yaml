@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   tags:
-    - rock
-    - roll
+    - time
+    - machine
   name: wayback-archive-storage
-  description: ding-dong
+  description: time-machoine
   links:
     - url: https://github.com/shukibakbuki/dingdong
       title: Github Repo
